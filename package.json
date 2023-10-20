@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TODO"
+    "url": "https://github.com/kandoruus/headerparser.git"
   },
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
-  "homepage": "TODO",
+  "homepage": "https://headerparser-microservice-kandoruus.glitch.me",
   "author": "kandoruus",
   "keywords": [
     "freeCodeCamp",
